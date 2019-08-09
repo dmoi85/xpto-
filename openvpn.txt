@@ -1,0 +1,498 @@
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZ4=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZ4v2=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZO=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_COMP_STUB=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_COMP_STUBv2=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_TCPNL=1 
+
+
+
+Aug 9 10:13:47 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_GUI_VER=OpenVPN_GUI_11 
+
+
+
+Aug 9 13:13:47 
+
+openvpn 
+
+
+
+user 'oficinacliente' authenticated 
+
+
+
+Aug 9 10:41:05 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 [oficinacliente] Inactivity timeout (--ping-restart), restarting 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_VER=2.4.7 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_PLAT=win 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_PROTO=2 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_NCP=2 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZ4=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZ4v2=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZO=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_COMP_STUB=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_COMP_STUBv2=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_TCPNL=1 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_GUI_VER=OpenVPN_GUI_11 
+
+
+
+Aug 9 10:39:38 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 [oficinacliente] Peer Connection Initiated with [AF_INET]x.x.x.x:1194 
+
+
+
+Aug 9 13:39:38 
+
+openvpn 
+
+
+
+user 'oficinacliente' authenticated 
+
+
+
+Aug 9 10:39:39 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 MULTI_sva: pool returned IPv4=10.0.8.2, IPv6=(Not enabled) 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_VER=2.4.7 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_PLAT=win 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_PROTO=2 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_NCP=2 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZ4=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZ4v2=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_LZO=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_COMP_STUB=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_COMP_STUBv2=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_TCPNL=1 
+
+
+
+Aug 9 10:40:01 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 peer info: IV_GUI_VER=OpenVPN_GUI_11 
+
+
+
+Aug 9 13:40:02 
+
+openvpn 
+
+
+
+user 'oficinacliente' authenticated 
+
+
+
+Aug 9 10:49:16 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 [oficinacliente] Inactivity timeout (--ping-restart), restarting 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_VER=2.4.7 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_PLAT=win 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_PROTO=2 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_NCP=2 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZ4=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZ4v2=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_LZO=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_COMP_STUB=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_COMP_STUBv2=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_TCPNL=1 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 peer info: IV_GUI_VER=OpenVPN_GUI_11 
+
+
+
+Aug 9 10:47:49 
+
+openvpn 
+
+73015 
+
+x.x.x.x:1194 [oficinacliente] Peer Connection Initiated with [AF_INET]x.x.x.x:1194 
+
+
+
+Aug 9 13:47:49 
+
+openvpn 
+
+
+
+user 'oficinacliente' authenticated 
+
+
+
+Aug 9 10:47:51 
+
+openvpn 
+
+73015 
+
+oficinacliente/x.x.x.x:1194 MULTI_sva: pool returned IPv4=10.0.8.2, IPv6=(Not enabled) 
